@@ -2,7 +2,7 @@ require 'formula'
 
 class MacvimKaoriya < Formula
   homepage 'https://github.com/splhack/macvim-kaoriya'
-  head 'https://github.com/splhack/macvim.git'
+  head 'https://github.com/delphinus35/macvim.git'
 
   option 'with-properly-linked-python2-python3', 'Link with properly linked Python 2 and Python 3. You will get deadly signal SEGV if you don\'t have properly linked Python 2 and Python 3.'
   option 'with-binary-release', ''
